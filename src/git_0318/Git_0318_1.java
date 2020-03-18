@@ -5,6 +5,7 @@ public class Git_0318_1 {
 		
 		System.out.println("My second commit");
 		System.out.println("My second second commit");
+		System.out.println( "commit 7");
 	}
 
 }

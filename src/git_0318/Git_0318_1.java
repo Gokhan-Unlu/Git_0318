@@ -8,6 +8,9 @@ public class Git_0318_1 {
 		System.out.println( "commit 7");
 		
 	System.out.println("This code is comming from github");
+		int a=4;
+		int b=5;
+		System.out.println("a+b");
 	}
 
 }
